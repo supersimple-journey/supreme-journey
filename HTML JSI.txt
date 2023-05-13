@@ -1,0 +1,101 @@
+<style>
+ .video-title{
+ font-family: arial;
+ font-weight: bold;
+ font-style: 18px;
+width: 280px;
+line-height: 22px;
+margin-bottom: 5px
+ }
+
+ .video-stats {
+   font-family: arial;
+   font-size: 14px;
+   color: rgb(96, 96, 96 );
+   margin-top: 0px;
+   maargin-bottom: 20px;
+ }
+
+.video-author {
+  font-family: arial;
+  font-size: 14px;
+  color: rgb(96, 96, 96 );
+  margin-bottom: 20px
+}
+
+.video-description{
+  font-family: arial;
+  font-size: 14px;
+ color: rgb(96, 96, 96 ); 
+ width: 280px;
+line-height: 20px;
+margin-bottom: 100px;
+}
+
+
+.apple-text{
+  font-family: arial;
+  font-size: 14px;
+  margin-bottom: 50px;
+   background-color: #e34140;
+    color: white;
+    padding: 18px;
+    font-size: 14px;
+    text-align: center;
+    margin-left: 8px;
+   margin-right: 8px;
+}
+
+
+
+
+.shop-link{
+  cursor: pointer;  
+}
+
+.Amazon-shop{
+font-family: arial;
+  font-size: 14px;
+  margin-bottom: 50px;
+   background-color: #e34140;
+    color: white;
+    padding: 18px;
+    font-size: 14px;
+    text-align: center;
+    margin-top
+    : 8px;
+   margin-right: 8px;
+   cursor: pointer;
+}
+
+
+
+
+.shop-link:hover{
+text-decoration: underline;
+}
+</style>
+
+<p class="video-title">
+  Talking Tech and AI with Google ICE Jeremiah samson!
+</p>
+
+<p class="video-stats">
+3.4M views &#183; 6 months ago
+</p>
+
+<p class="video-author">
+Jeremiah Samson&#10003;
+</p>
+
+<p class="video-description">
+ Talking tech and AI on the heels of Google I/O. Also a daily driver phone reveal from Google's JSI. Shoutout to Jeremiah! 
+</p>
+
+<p class="apple-text">
+ Shop early for the best selection of holiday favourites.<span class="shop-link">Shop now &gt;</span>
+</p>
+
+<a class="Amazon-shop" href="https://www.amazon.com/" target="blank">
+  Amazon Shop now &gt;
+</a>
